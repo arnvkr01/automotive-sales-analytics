@@ -96,7 +96,7 @@ Capitalize on Fast-Moving Units: Increase stock allocations for high-velocity ca
 
 1. Clone this repository:
 
-git clone\[https://github.com/](https://github.com/)<arnvke01>/automotive-sales-analytics.git
+git clone https://github.com/arnvkr01/automotive-sales-analytics.git
 
 
 
